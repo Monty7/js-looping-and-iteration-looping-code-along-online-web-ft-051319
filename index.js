@@ -8,4 +8,7 @@ function writeCards(str_arr, event){
   return result;
 }
 
+let i = 0
+while( )
+
 
