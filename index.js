@@ -8,10 +8,12 @@ function writeCards(str_arr, event){
   return result;
 }
 
-let countdown = 0
-while(countdown > 0 ){
-  console.log(i);
-  i--;
+function countdown(){
+  let countdown = 0
+  while(countdown > 0 ){
+    console.log(i);
+    i--;
+  }
 }
 
 
