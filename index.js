@@ -8,4 +8,4 @@ function writeCards(str_arr, event){
   return result;
 }
 
-writeCards
+
